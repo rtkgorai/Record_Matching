@@ -2,7 +2,7 @@
 Using Python and SQL
 
 
-Description
+#Description
 
 
 There are 2 datasets present in the file. Data 1 and Data 2
@@ -11,7 +11,7 @@ The primary key for both data1 and data2 is Order Id + Product ID combination (i
 
 
 
-Provide solution and approach for the following:
+#Provide solution and approach for the following:
 
 How to identify the Records (Order ID + Product ID combination) present in data1 but missing in data2 (Specify the number of records missing in your answer)
 
